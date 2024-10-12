@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Recipe App",
-  description: "Abhinav Ravella's Recipe App",
+  description: "Satwika's Recipe App",
 };
 
 export default function RootLayout({
